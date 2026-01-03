@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🌱 I'm currently focusing on improving my software engineering skills and learning about GenAI.
+- I successfully finished [Harvard's famous CS50's Introduction to Computer Science](https://certificates.cs50.io/ce364d7a-9734-4791-93d9-856142f8bb4a.pdf?size=letter)
+- On [Boot.dev](https://www.boot.dev/u/cherubim) I'm learning more about backend development (C, Python, Go, ...)
