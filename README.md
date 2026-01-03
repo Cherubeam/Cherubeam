@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - On [Boot.dev](https://www.boot.dev/u/cherubim) I'm learning more about backend development (C, Python, Go, ...)
 
 📫 Get in touch!
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marcobraun/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://marcobraun.substack.com)
