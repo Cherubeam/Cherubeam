@@ -31,8 +31,9 @@ I have a "slow learning" approach; I rather take my time and take courses to cov
 ## Projects I Built
 
 - 📥 [Obsidian Inbox Processor](https://github.com/Cherubeam/obsidian-inbox-processor)
+- 🤖 [Jarvis](https://github.com/Cherubeam/jarvis)
 
-📫 Get in touch!
+💬 Get in touch!
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marcobraun/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://marcobraun.substack.com)
