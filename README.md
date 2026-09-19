@@ -33,6 +33,7 @@ I have a "slow learning" approach; I rather take my time and take courses to cov
 - 📥 [Obsidian Inbox Processor](https://github.com/Cherubeam/obsidian-inbox-processor)
 - 🤖 [Jarvis](https://github.com/Cherubeam/jarvis)
 - 🔎 [Job Research](https://github.com/Cherubeam/job-research)
+- 📰 [Raycast Plugin for German Newsportal "Tagesschau"](https://github.com/Cherubeam/raycast-tagesschau)
 
 💬 Get in touch!
 
